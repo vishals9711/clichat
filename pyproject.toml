@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "clichat"
+version = "1.0.2"
+description = "CliChat: A Python CLI tool for interactive chatbot interactions, offering features like clipboard copying and query retry. Compatible with Python 3.7+ on various operating systems."
+authors = ["Vishal Sharma <vishalsharma1907@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+clichat = {path = ".", develop = true}
+# Add other dependencies from requirements.txt here
+# For example:
+# requests = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
