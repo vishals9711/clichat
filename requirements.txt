@@ -31,7 +31,7 @@ mypy-extensions==1.0.0
 numpy==1.26.3
 openai==1.6.1
 packaging==23.2
-prompt-toolkit==1.0.14
+prompt-toolkit==3.0.43
 pydantic==2.5.3
 pydantic_core==2.14.6
 pyfiglet==1.0.2
