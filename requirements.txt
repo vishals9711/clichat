@@ -3,7 +3,7 @@ click==8.1.7
 halo==0.0.31
 langchain==0.0.353
 langchain-community==0.0.7
-langchain-core==0.1.4
+langchain-core==0.1.28
 langchain-experimental==0.0.47
 langsmith==0.0.77
 multidict==6.0.4
