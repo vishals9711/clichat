@@ -8,7 +8,7 @@ langchain-experimental==0.0.47
 langsmith==0.0.77
 multidict==6.0.4
 numpy==1.26.3
-openai==1.6.1
+openai==1.14.1
 pyfiglet==1.0.2
 PyInquirer==1.0.3
 pyperclip==1.8.2
